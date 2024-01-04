@@ -89,6 +89,3 @@ Yes, please. Just send your PRs.
 
 Gracias 🤓
 
-# Updates
-
-For updates follow here: [@julioandresdev](https://twitter.com/julioandresdev)
